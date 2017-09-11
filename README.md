@@ -8,3 +8,7 @@ Didn't use BREW
 Git and Github
 SSH
 Linux
+HTML
+CSS
+Font Awesome
+Google Fonts
