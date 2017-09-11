@@ -1,4 +1,4 @@
-# Dennis de Jesus's portfolio
+# Dennis de Jesus portfolio
 
 This is my professional portfolio. It uses AWS and ReactJS.
 
