@@ -7,3 +7,4 @@ This is my professional portfolio. It uses AWS and ReactJS.
 Didn't use BREW
 Git and Github
 SSH
+Linux
