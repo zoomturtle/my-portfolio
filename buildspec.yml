@@ -2,8 +2,8 @@ version: 0.1
 phases:
   pre+build:
     commands:
-      -npm install
-      -npm test
+      - npm install
+      - npm test
   build:
     commands:
       - npm run webpack
